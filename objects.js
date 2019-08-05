@@ -1,3 +1,8 @@
-var playlist = {}
+var playlist = {
+  'Chris Tomline': 'Forever',
+  'Lauren Daigle': 'You Say'
+}
 
-var playlist = new Object()
+function updatePlayList (playlist, artist, song) {
+  
+}

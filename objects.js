@@ -10,5 +10,5 @@ function updatePlayList (playlist, artist, song) {
 }
 
 function removeFromPlaylist(playlist, artist) {
-  
+  delete meals.
 }

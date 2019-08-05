@@ -1,5 +1,5 @@
 var playlist = {
-  'Phil Ochs': 'My Bloddy Valentinr',
+  'Phil Ochs': 'My Bloddy Valentine',
   'Lauren Daigle': 'You Say'
 }
 

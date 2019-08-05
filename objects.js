@@ -3,8 +3,8 @@ var playlist = {
   'Lauren Daigle': 'You Say'
 }
 
-function updatePlayList (playlist, artist, song) {
-  playlist[artist] = song
+function updatePlayList (playlist, artistName, songTitle) {
+  playlist[artistName] = songTitle
   
   return playlist
 }
